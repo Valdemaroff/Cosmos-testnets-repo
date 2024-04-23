@@ -8,4 +8,7 @@
 Легче всего мониторить новые активности на сайтах:
 1) https://nodes.guru/
 2) https://app.nodejumper.io/
-3) https://github.com/kj89 
+3) https://github.com/kj89
+
+Так же ни для кого не секрет что вы сами можете сделать обозреватель блоков используя [ping-pub explorer](https://github.com/ping-pub/explorer.git) - как это делают все валидаторы-активисты , кроме сообщества Nodes Guru.
+Гайд по созданию эксплорера вы найдете в гитхабе Ping Pub.
